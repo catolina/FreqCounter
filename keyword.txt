@@ -1,0 +1,5 @@
+  FreqCounter.h - Library for a Frequency Counter c.
+  Created by Martin Nawrath, KHM Lab3, Dec. 2008
+  Released into the public domain.
+
+
