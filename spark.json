@@ -1,0 +1,16 @@
+{
+  "name": "FreqCounter",
+  "author": "Martin Nawrath",
+  "version": "2.1",
+  "keywords": "FreqCounter",
+  "description": "This library is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/catolina/FreqCounter.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
+}
